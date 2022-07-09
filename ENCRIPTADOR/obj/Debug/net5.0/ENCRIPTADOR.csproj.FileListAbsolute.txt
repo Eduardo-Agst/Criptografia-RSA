@@ -1,0 +1,16 @@
+C:\Users\eduar\source\repos\DECRIPTADOR\ENCRIPTADOR\bin\Debug\net5.0\ENCRIPTADOR.exe
+C:\Users\eduar\source\repos\DECRIPTADOR\ENCRIPTADOR\bin\Debug\net5.0\ENCRIPTADOR.deps.json
+C:\Users\eduar\source\repos\DECRIPTADOR\ENCRIPTADOR\bin\Debug\net5.0\ENCRIPTADOR.runtimeconfig.json
+C:\Users\eduar\source\repos\DECRIPTADOR\ENCRIPTADOR\bin\Debug\net5.0\ENCRIPTADOR.runtimeconfig.dev.json
+C:\Users\eduar\source\repos\DECRIPTADOR\ENCRIPTADOR\bin\Debug\net5.0\ENCRIPTADOR.dll
+C:\Users\eduar\source\repos\DECRIPTADOR\ENCRIPTADOR\bin\Debug\net5.0\ref\ENCRIPTADOR.dll
+C:\Users\eduar\source\repos\DECRIPTADOR\ENCRIPTADOR\bin\Debug\net5.0\ENCRIPTADOR.pdb
+C:\Users\eduar\source\repos\DECRIPTADOR\ENCRIPTADOR\obj\Debug\net5.0\ENCRIPTADOR.csproj.AssemblyReference.cache
+C:\Users\eduar\source\repos\DECRIPTADOR\ENCRIPTADOR\obj\Debug\net5.0\ENCRIPTADOR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eduar\source\repos\DECRIPTADOR\ENCRIPTADOR\obj\Debug\net5.0\ENCRIPTADOR.AssemblyInfoInputs.cache
+C:\Users\eduar\source\repos\DECRIPTADOR\ENCRIPTADOR\obj\Debug\net5.0\ENCRIPTADOR.AssemblyInfo.cs
+C:\Users\eduar\source\repos\DECRIPTADOR\ENCRIPTADOR\obj\Debug\net5.0\ENCRIPTADOR.csproj.CoreCompileInputs.cache
+C:\Users\eduar\source\repos\DECRIPTADOR\ENCRIPTADOR\obj\Debug\net5.0\ENCRIPTADOR.dll
+C:\Users\eduar\source\repos\DECRIPTADOR\ENCRIPTADOR\obj\Debug\net5.0\ref\ENCRIPTADOR.dll
+C:\Users\eduar\source\repos\DECRIPTADOR\ENCRIPTADOR\obj\Debug\net5.0\ENCRIPTADOR.pdb
+C:\Users\eduar\source\repos\DECRIPTADOR\ENCRIPTADOR\obj\Debug\net5.0\ENCRIPTADOR.genruntimeconfig.cache
